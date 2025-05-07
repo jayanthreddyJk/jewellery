@@ -28,6 +28,7 @@ This is a simple Jewellery Product Management system built with **CodeIgniter 3*
 
 - git clone https://github.com/jayanthreddyJk/jewellery.git
 - cd jewellery
+- run composer install command to install vendor file
 
 
 # 2. Create a MySQL database and import SQL:
